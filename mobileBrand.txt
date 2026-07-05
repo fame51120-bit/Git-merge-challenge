@@ -2,4 +2,8 @@
 2. Samsung
 3. Xiaomi
 4. Oppo
+<<<<<<< HEAD
 5. OnePlus
+=======
+5. Vivo
+>>>>>>> merge
